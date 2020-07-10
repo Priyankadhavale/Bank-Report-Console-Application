@@ -1,0 +1,7 @@
+D:\assignment\BankReport\BankReport\BankReport\bin\Debug\BankReport.exe.config
+D:\assignment\BankReport\BankReport\BankReport\bin\Debug\BankReport.exe
+D:\assignment\BankReport\BankReport\BankReport\bin\Debug\BankReport.pdb
+D:\assignment\BankReport\BankReport\BankReport\obj\Debug\BankReport.csprojAssemblyReference.cache
+D:\assignment\BankReport\BankReport\BankReport\obj\Debug\BankReport.csproj.CoreCompileInputs.cache
+D:\assignment\BankReport\BankReport\BankReport\obj\Debug\BankReport.exe
+D:\assignment\BankReport\BankReport\BankReport\obj\Debug\BankReport.pdb
